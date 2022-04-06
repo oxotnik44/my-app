@@ -1,0 +1,70 @@
+.txt {
+    position: absolute;
+    height: 40px;
+    max-height: 31px;
+    left: 40px;
+    right: 6.4%;
+    top: 250px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 129%;
+    /* identical to box height, or 129% */
+
+    color: #2196F3;
+}
+
+.text {
+    position: absolute;
+    height: 8%;
+    left: 65px;
+    right: 13.87%;
+    top: 310px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 174%;
+    /* or 26px */
+
+
+    color: #3A4850;
+}
+
+.start {
+    position: absolute;
+    height: 21px;
+    left: 27.12%;
+    right: 27.12%;
+    top: -5px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.page {
+    position: absolute;
+    width: 38px;
+    height: 19px;
+    left: 168px;
+    top: 30px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    /* identical to box height, or 106% */
+    
+    text-align: center;
+    
+    color: #3C5060;
+}

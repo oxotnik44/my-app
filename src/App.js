@@ -1,9 +1,12 @@
-import Mobile from "./Mobile";
+import Mobile from "./Project/Jsx/Mobile";
+import {Routes, Route, Link} from 'react-router-dom'
 
 function App() {
   return (
     <div className="App">
-     <Mobile/>
+     <Routes>
+       <Route path="/" element = {<Mobile/>}/>
+     </Routes>
     </div>
   );
 }
