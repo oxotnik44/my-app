@@ -11,7 +11,6 @@ import { Component } from "react/cjs/react.production.min";
 import { useRef, useEffect } from "react";
 
 const App = () => {
-  
   useEffect(() => {
     const timer = setTimeout(() => {
     }, 1000);
